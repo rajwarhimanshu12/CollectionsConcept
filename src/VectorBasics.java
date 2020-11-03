@@ -19,7 +19,6 @@ public class VectorBasics {
     	 {
     		 System.out.println(I);
     	 }
-    
      }
 	}
 }
